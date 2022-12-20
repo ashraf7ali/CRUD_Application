@@ -1,0 +1,30 @@
+[
+    {
+        "emp_id" : "1",
+        "firstName" : "Maria",
+        "lastName" : "Dsuza",
+        "ward" : "1",
+        "email": "maria.d@mail.com"
+    },
+    {
+        "emp_id" : "2",
+        "firstName" : "Nikki",
+        "lastName" : "Dsuza",
+        "ward" : "3",
+        "email": "Nikki.d@mail.com"
+    },
+    {
+        "emp_id" : "3",
+        "firstName" : "sita",
+        "lastName" : "raman",
+        "ward" : "4",
+        "email": "sita.r@mail.com"
+    },
+    {
+        "emp_id" : "4",
+        "firstName" : "nancy",
+        "lastName" : "rodrigaz",
+        "ward" : "2",
+        "email": "nancy.r@mail.com"
+    }
+]
